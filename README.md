@@ -1,4 +1,4 @@
-# Hi there, I'm Allan Sharad 👋
+# Hi there, I'm a CrowBar👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Software+Engineer;Full-Stack+Developer;Problem+Solver" alt="Typing SVG" />
@@ -16,7 +16,7 @@
 
 - 🎓 **Education:**
   - 📜 Diploma in ICT – Daystar University
-  - 🎯 B.Sc. Applied Computer Technology – USIU *(graduating 2025)*
+  - 🎯 B.Sc. Applied Computer Technology – USIU *(graduating 2026)*
   
 - 💻 Currently working on **multiple frontend and backend projects**
 - 🌐 Experienced with **Cisco networking systems** and **ticketing software**
@@ -79,7 +79,7 @@
 ## 🎯 Current Focus
 
 ```javascript
-const allan = {
+const crowBar = {
     currentlyLearning: ["Advanced React Patterns", "Cloud Architecture", "DevOps"],
     workingOn: ["Frontend Projects", "Backend APIs", "Networking Solutions"],
     interests: ["Chess ♟️", "New Technologies", "Problem Solving"],
